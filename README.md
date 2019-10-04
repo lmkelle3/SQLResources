@@ -29,5 +29,3 @@ Update: https://www.w3schools.com/sql/sql_ref_update.asp
 
 <h2>How to remove something from a table</h2>
 Delete: https://www.w3schools.com/sql/sql_ref_delete.asp
-
-![alt text](https://www.quora.com/What-is-a-good-GUI-tool-for-PostgreSQL-that-has-a-comfy-tabbed-view-for-results-and-queries-easy-sorting-and-grouping-of-results-IntelliSense-a-good-%E2%80%9Cquery-builder%E2%80%9D-to-help-with-syntax-support-for-versioning-of-SQL-code-and-a-good-debug-mode "SQL Example")
